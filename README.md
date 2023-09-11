@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao! I'm Sowon ✨
 
 <div align=center><h1>📚 STACKS</h1></div>
 
