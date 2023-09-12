@@ -8,10 +8,10 @@
 <br>  
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsoneee&layout=compact)](https://github.com/Iamsoneee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsoneee&layout=compact)](https://github.com/Iamsoneee/github-readme-stats&theme=rose)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamsoneee&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamsoneee&show_icons=true&theme=rose)
 
 <h3>💫 Skills</h3>
 
