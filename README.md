@@ -1,6 +1,6 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ciao!%20I'm%20Sowon%20Jeong&fontColor=ffffff&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ciao!&fontAlignY=30&fontColor=ffffff&fontSize=48&desc=I'm%20Sowon%20Jeong&descSize=40&descAlignY=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIamsoneee&count_bg=%23F7C5CC&title_bg=%23CC313D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
