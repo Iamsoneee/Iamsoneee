@@ -59,10 +59,14 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion&logoColor=white"/>
 
+
+
 <h3>✍️ Currently Studying</h3>
 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
   
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+
 </div>
